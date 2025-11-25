@@ -16,7 +16,7 @@
         }
         table{
            background-position: center; 
-        }
+        }    
     </style>
     </head>
     <body>
